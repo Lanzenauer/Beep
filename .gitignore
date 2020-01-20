@@ -1,0 +1,7 @@
+*.app
+*.zip
+.alcache
+rad.json
+Translations/*.g.xlf
+permissionsAnalyzer.json
+launch.json
