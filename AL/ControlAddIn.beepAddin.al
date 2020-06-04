@@ -1,4 +1,4 @@
-controladdin beepAddin
+controladdin "beepAddin"
 {
     RequestedHeight = 300;
     VerticalStretch = true;
@@ -9,7 +9,7 @@ controladdin beepAddin
              'JS\Makebeep.js',
              'https://code.jquery.com/jquery-2.1.0.min.js';
     StyleSheets = 'StyleSheet\StyleSheet.css';
-    //StartupScript = 'JS\Start.js';
+    StartupScript = 'JS\Start.js';
     Images = 'beep-02.mp3';
     event Ready()
 

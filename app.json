@@ -1,6 +1,6 @@
 {
-  "id": "b434f36f-1db1-4de2-912f-5092f1a732be",
-  "name": "ALProject5",
+  "id": "b434f36f-1db1-4de2-912f-5092f1a732bd",
+  "name": "Beep",
   "publisher": "Default publisher",
   "version": "1.0.0.0",
   "brief": "",
@@ -15,5 +15,6 @@
   "platform": "13.0.0.0",
   "application": "13.0.0.0",
   "showMyCode": true,
-  "runtime": "2.4"
+  "runtime": "2.0",
+  "capabilities": []
 }
